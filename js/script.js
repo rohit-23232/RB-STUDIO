@@ -177,6 +177,6 @@ const footer=document.querySelector("footer p:last-child");
 
 if(footer){
 
-footer.innerHTML=`© ${year} RB Designs. All Rights Reserved.`;
+footer.innerHTML=`© ${year} RB Studio. All Rights Reserved.`;
 
 }
